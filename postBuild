@@ -1,2 +1,2 @@
 #!/bin/bash
-opam exec -- jupyter kernelspec install --user --name ocaml-jupyter "$(opam var share)/jupyter"
+opam exec -- ocaml-jupyter-opam-genspec
