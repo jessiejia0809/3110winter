@@ -1,1 +1,2 @@
-jupyterlab==3.0.16
+git+https://github.com/akabe/ocaml-jupyter.git
+
